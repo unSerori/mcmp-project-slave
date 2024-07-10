@@ -1,0 +1,15 @@
+# todo
+TODO*
+
+# memo
+memo.md
+
+# .vscode
+.vscode/
+
+# volumes
+mc-server/
+#setting.yml
+
+# docker-composeで使う.env
+.env
